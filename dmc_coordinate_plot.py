@@ -13,7 +13,7 @@ import mpl_toolkits.mplot3d
 
 """
 - import data file 
-- split into energy array and seperate coordinate arrays for both 
+- split into energy array and separate coordinate arrays for both 
   particles
 - create x-y plane radius array for both particles
 """
